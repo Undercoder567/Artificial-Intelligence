@@ -4,6 +4,7 @@
 # 3rd year,6th sem
 # College roll no:20201441
 # Exam roll no: 20020570038
+# Ramanujan College, DU
 # Practical
 1.Write a prolog program to calculate the sum of two numbers.
 
